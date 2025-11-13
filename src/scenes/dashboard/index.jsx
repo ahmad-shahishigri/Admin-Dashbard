@@ -18,6 +18,7 @@ const Dashboard = () => {
   const theme = useTheme();
   const colors = tokens(theme.palette.mode);
   return (
+   
     <Box m="20px">
       {/* HEADER */}
       <Box display="flex" justifyContent="space-between" alignItems="center">
@@ -37,6 +38,7 @@ const Dashboard = () => {
             Download Reports
           </Button>
         </Box>
+        
       </Box>
 
       {/* GRID & CHARTS */}
