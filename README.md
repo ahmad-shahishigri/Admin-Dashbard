@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD
 # Admin-Dash-Board
 
 The Admin-Dash-Board project is dedicated to developing a robust web-based administration panel, offering an intuitive interface for managing and monitoring application data, user accounts, and settings. This project leverages React and Material UI to create a dynamic and user-friendly admin panel application.
@@ -55,3 +56,7 @@ To contribute to or use this project, you should have the following skills:
 
 
 
+=======
+# Admin-dashboard
+A  UI of admin dashboard 
+>>>>>>> c7032fcb4751b3c55bfcc7cbb5d882fa0e35272a -->
